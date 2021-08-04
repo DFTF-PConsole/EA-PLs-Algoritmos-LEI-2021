@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -Wextra -g -Wl,--enable-auto-import CMakeFiles/PL7_F.dir/main.cpp.o -o PL7_F.exe -Wl,--out-implib,libPL7_F.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

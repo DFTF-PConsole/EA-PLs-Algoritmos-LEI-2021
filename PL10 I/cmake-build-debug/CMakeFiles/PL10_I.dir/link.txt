@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -Wextra -g -Wl,--enable-auto-import CMakeFiles/PL10_I.dir/main.cpp.o -o PL10_I.exe -Wl,--out-implib,libPL10_I.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

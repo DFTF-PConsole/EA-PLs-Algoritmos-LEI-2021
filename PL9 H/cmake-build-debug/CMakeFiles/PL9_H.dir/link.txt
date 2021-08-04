@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -Wextra -g -Wl,--enable-auto-import CMakeFiles/PL9_H.dir/main.cpp.o -o PL9_H.exe -Wl,--out-implib,libPL9_H.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

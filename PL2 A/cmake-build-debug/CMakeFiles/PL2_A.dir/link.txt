@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/PL2_A.dir/main.cpp.o  -o PL2_A.exe -Wl,--out-implib,libPL2_A.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

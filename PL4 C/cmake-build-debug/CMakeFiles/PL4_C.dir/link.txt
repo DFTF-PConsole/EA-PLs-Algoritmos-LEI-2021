@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/PL4_C.dir/main.cpp.o  -o PL4_C.exe -Wl,--out-implib,libPL4_C.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

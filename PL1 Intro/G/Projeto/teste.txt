@@ -1,0 +1,36 @@
+Input
+
+ADD 30
+ADD 50
+ADD 50
+REQUEST 50
+ADD 40
+REQUEST 35
+REQUEST 33
+REQUEST 32
+ADD 10
+
+
+
+
+Output
+
+50
+40
+50
+impossible
+
+
+
+
+Explanation
+
+Available sizes after instruction #1: [30]
+Available sizes after instruction #2: [30,50]
+Available sizes after instruction #3: [30,50,50]
+Available sizes after instruction #4: [30,50]
+Available sizes after instruction #5: [30,40,50]
+Available sizes after instruction #6: [30,50]
+Available sizes after instruction #7: [30]
+Available sizes after instruction #8: [30]
+Available sizes after instruction #9: [10,30]

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/pcdar/OneDrive/Documentos/GitHub/EA-PLs-2021/PL1/D Novo/main.cpp
+iostream
+-
+string
+-
+cstdio
+-
+cstring
+-
+
