@@ -15,5 +15,4 @@ EA - Estratégias Algorítmicas
 
 ## Autores:
 
-* Cláudia Campos (TaurusLegend)
 * Dário Félix / DFTF@PConsole# (DFTF-PConsole)
