@@ -11,6 +11,8 @@ EA - Estratégias Algorítmicas
 
 ## PLs / Exercícios
 
+* Problem Solving / Algoritmos
+
 
 
 ## Autores:
