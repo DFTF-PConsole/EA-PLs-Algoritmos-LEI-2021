@@ -1,20 +1,19 @@
 # EA PLs Algoritmos LEI 2021
 
 
-PUBLIC
+<br />
 
-FCTUC DEI/LEI 2020/2021 - Licenciatura em Engenharia Informática
-
-EA - Estratégias Algorítmicas
-
-
-
-## PLs / Exercícios
-
-* Problem Solving / Algoritmos
+## Âmbito
+FCTUC DEI/LEI 2020/2021 - Licenciatura em Engenharia Informática	<br />
+EA - Estratégias Algorítmicas <br />
 
 
+<br />
 
-## Autores:
+## PLs / Exercícios: Problem Solving / Algoritmos
 
-* Dário Félix / DFTF@PConsole# (DFTF-PConsole)
+
+<br />
+
+## Autor:
+* **Dario Felix / DFTF@PConsole#**, n. 2018275530, dario@student.dei.uc.pt, GitHub: [@DFTF-PConsole](https://github.com/DFTF-PConsole)
